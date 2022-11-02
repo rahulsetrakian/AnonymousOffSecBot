@@ -52,7 +52,7 @@ $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
 
-> **Note**
+> **Note**:
 >Before running the bot, put the TOKEN obtained from the BotFather in the `TOKEN = "Put The Token Here"` in the main.py.
 
 
