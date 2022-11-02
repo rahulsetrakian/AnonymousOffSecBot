@@ -1,0 +1,41 @@
+Cybersecurity is a highly sought-after field in IT, and many people are interested in learning about it. But sometimes, knowing where to start or how to approach ethical hacking can be challenging. I'll help you start from scratch and take you to an advanced level, and please remember to follow every step without skipping.
+
+
+Step One:[Basics]
+	1. Linux:
+		a. Introduction to Linux - https://www.edx.org/course/introduction-to-linux
+		b. Linux Fundamentals - https://www.coursera.org/learn/linux-fundamentals
+		c. Linux Essentials for Ethical Hackers ~  freeCodeCamp.org - https://www.youtube.com/watch?v=1hvVcEhcbLM
+	2. Bash(Programming Language):
+		a. Hands-on Introduction to Linux Commands and Shell Scripting - https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting
+		b. Bash Scripting Full Course 3 Hours ~  linuxhint - https://www.youtube.com/watch?v=e7BufAVwDiM
+	2. Python(Programming Language):
+		a. Python for Everybody - https://www.youtube.com/watch?v=8DvywoWv6fI&t=35s
+		b. Python Tutorial for Beginners - https://www.simplilearn.com/tutorials/python-tutorial
+
+Step Two:[Computer Networking]
+	1. Introduction to TCP/IP - https://www.coursera.org/learn/tcpip
+	2. The Bits and Bytes of Computer Networking - https://www.coursera.org/learn/computer-networking
+	3. Computer Networking Course ~  freeCodeCamp.org - https://www.youtube.com/watch?v=qiQR5rTSshw
+
+Step Three:[Introduction to Cybersecurity]
+	1. Introduction to Cyber Security - https://www.simplilearn.com/learn-cyber-security-basics-skillup
+	2. IT Fundamentals for Cybersecurity Specialization - https://www.coursera.org/specializations/it-fundamentals-cybersecurity
+	3. Ethical Hacking for Beginner - https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=4s
+	4. Penetration Testing ~ Discovering Vulnerabilities - https://www.edx.org/course/penetration-testing-discovering-vulnerabilities
+	4. CompTIA Security+ Course - https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
+	5. OWASP Top 10 - https://owasp.org/www-project-top-ten/
+	6. OSCP - https://pwk.hide01.ir
+
+Practise:[Sharpening Skills]
+	a. Hacker101 CTF - https://ctf.hacker101.com/
+	b. HackThebox - https://www.hackthebox.com/
+	c. TryHackeMe - https://tryhackme.com/
+	d. Root Me - https://www.root-me.org/fr/Capture-The-Flag/
+	e. picoCTF - https://picoctf.org/
+
+
+Note: If any of these links are not working or if you have any queries, please report to @anonymouscharon.
+
+Join the Community: https://t.me/NonymousHackers
+Happy Hacking! :)

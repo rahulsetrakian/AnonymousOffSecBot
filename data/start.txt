@@ -1,0 +1,27 @@
+I can help you find free cybersecurity courses and programming courses. If you're new to IT, then I can help you get started and give out the best free resources.
+
+You can control me by sending these commands:
+
+/start - to start the bot!
+/help - to get you the list of commands
+/pathway - to get a step-by-step learning path
+
+Information Technology:
+/IT - to receive courses that will help you get started in Information Technology
+
+Cybersecurity:
+/cybersecurity - to get free courses related to cybersecurity
+
+Programming:
+/programming - to get free courses related to programming
+
+Onion URL:
+/darkweb - to get links of darkweb
+
+Rules and Regulatoins:
+/rules - to get the list of guidelines, members should follow
+
+
+Join the Community: https://t.me/NonymousHackers
+
+Happy Hacking! :)

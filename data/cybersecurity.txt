@@ -1,0 +1,63 @@
+Cybersecurity is a broad field, and there's always something new to learn and exploit. These are some of the free resources available online.
+
+1) Basics:
+	a. Ethical Hacking Full Course[Edureka]  - https://www.youtube.com/watch?v=dz7Ntp7KQGA
+	b. Basic Ethical Hacking - https://www.youtube.com/watch?v=fNzpcB7ODxQ
+	c. Guru99 - https://www.guru99.com/ethical-hacking-tutorials.html
+	d. Introduction to Ethical Hacking - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking
+	e. Ethical Hacking for Beginners - https://www.simplilearn.com/learn-ethical-hacking-online-free-course-skillup
+	f. Cybrary - https://www.cybrary.it/info/freecybertraining/
+	g. Alison - https://alison.com/course/ethical-hacker
+	h. Introduction to Cyber Attacks - https://in.coursera.org/learn/intro-cyber-attacks#syllabus
+	i. Introduction to Cybersecurity Tools - https://in.coursera.org/learn/introduction-cybersecurity-cyber-attacks#syllabus
+
+2) Active Directory:
+	a. Active Directory Security  - https://adsecurity.org/
+	b. Dirkjanm - https://dirkjanm.io/
+	c. Ethical Hackers Academy - https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory
+	d. Youtube[HackUCF] - https://www.youtube.com/watch?v=iTFqt3Tx4DQ
+	e. OSCP - https://pwk.hide01.ir
+
+3) Web Application Hacking:
+	a. Hacker101 - https://www.hacker101.com/
+	b. Web Security Academy - https://portswigger.net/web-security
+	c. PentesterLab - https://pentesterlab.com/exercises
+	d. OWASP Top Ten - https://owasp.org/www-project-top-ten/
+	e. Thecybermentor - https://www.youtube.com/watch?v=24fHLWXGS-M
+	f. Free Udemy - https://www.udemy.com/course/sql-injection-ethical-hacking/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-bip9bBwq4tA.jcDqXNf8oQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+	g. Edx - https://www.edx.org/course/penetration-testing-discovering-vulnerabilities?source=aw&awc=6798_1661587885_1f95e0c8a59039d8bbac8000b281e316&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=631878_javarevisited
+
+4) Wireless Hacking:
+	a. Aircrack-ng - https://www.aircrack-ng.org/doku.php?id=cracking_wpa
+	b. Solstice - https://solstice.sh/ii-attacking-and-gaining-entry-to-wpa2-eap-wireless-networks/
+
+5) Exploit Development:
+	a. Buffer Overflows - https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
+	b. TryHackeMe - https://tryhackme.com/room/bufferoverflowprep
+	c. Reverse Engineering And Exploit Development - https://www.youtube.com/watch?v=cOOPlMNA-A8&list=PLziMzyAZFGMfIegan2LLcEj9R69-f3sFU
+	d. CNIT - https://samsclass.info/127/127_S22.shtml
+	e. Exploit Courses - https://exploit.courses/#/index
+
+6) Privilege Escalation:
+	a. Windows Privilege Escalation - https://www.youtube.com/watch?v=aD_KlzVK834
+	b. Linux Privilege Escalation - https://www.youtube.com/watch?v=yYY5mJoUZjU
+	c. OSCP - https://pwk.hide01.ir/
+
+7) Blogs:
+	a. Adam Toscher - https://adam-toscher.medium.com/
+	b. Hausec - https://hausec.com/
+	c. Null Byte - https://null-byte.wonderhowto.com/
+	d. Hacking Articles - https://www.hackingarticles.in/dailybugle-tryhackme-walkthrough/
+
+8) Practice - CTF:
+	a. Hacker101 CTF - https://ctf.hacker101.com/
+	b. HackThebox - https://www.hackthebox.com/
+	c. TryHackeMe - https://tryhackme.com/
+	d. Root Me - https://www.root-me.org/fr/Capture-The-Flag/
+	e. picoCTF - https://picoctf.org/
+
+Note: If any of these links are not working or if you have any queries, please report to @anonymouscharon.
+
+Join the Community: https://t.me/NonymousHackers
+
+Happy Hacking! :)

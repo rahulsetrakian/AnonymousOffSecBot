@@ -1,0 +1,29 @@
+Today, it's easy to find out almost anything you want to know. You can do this by using the Internet, but you need to have a good understanding of how things work, so I will provide you with basic IT resources that will help you form a solid foundation for your understanding of technology.
+
+
+1) Basic IT:
+	a.  Professor Messer - https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/
+	b. GCFGlobal - https://edu.gcfglobal.org/en/topics/computers/
+	c. Google IT Course - https://www.coursera.org/professional-certificates/google-it-support?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-en_in-it_support
+
+2) Computer Networking:
+	a. Professor Messer - https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/
+	b. Google Computer Neworking - https://www.youtube.com/watch?v=veyNxHVfFq8
+	c. Udacity - https://www.udacity.com/course/computer-networking--ud436
+	d. Alison - https://alison.com/course/computer-networking-wired-and-wireless-networks-and-protocols-revised
+	e. Introduction to Networking - https://www.edx.org/course/introduction-to-networking
+
+3) Basic Linux:
+	a. Udacity - https://www.udacity.com/course/linux-command-line-basics--ud595
+	b. Edureka - https://www.youtube.com/watch?v=Wgi-OfbP2Gw
+	c. EdX - https://www.edx.org/course/introduction-to-linux
+	d. Linux Essentials - https://www.netacad.com/courses/os-it/ndg-linux-essentials
+	e. Fundamentals of Red Hat Enterprise Linux - https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux
+
+Note: If any of these links are not working or if you have any queries, please report to @anonymouscharon.
+
+
+Join the Community: https://t.me/NonymousHackers
+
+
+Happy Hacking! :)

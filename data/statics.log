@@ -1,0 +1,28 @@
+2022-11-01 17:27:36,495 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.153:8080
+2022-11-01 17:27:36,496 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2022-11-01 17:27:38,525 - apscheduler.scheduler - INFO - Scheduler started
+2022-11-01 17:27:38,525 - telegram.ext._application - INFO - Application started
+2022-11-01 17:28:31,200 - Anonymous - INFO - People Who Said Hello: 1
+2022-11-01 17:28:33,785 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:33] "GET / HTTP/1.1" 200 -
+2022-11-01 17:28:33,974 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:33] "GET /static/css/style.css HTTP/1.1" 200 -
+2022-11-01 17:28:34,261 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:34] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2022-11-01 17:28:34,274 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:34] "GET /static/images/index.png HTTP/1.1" 200 -
+2022-11-01 17:28:34,301 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:34] "GET /static/images/photo.jpg HTTP/1.1" 200 -
+2022-11-01 17:28:39,911 - Anonymous - INFO - Total Clicks On Help: 1
+2022-11-01 17:28:41,565 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:41] "GET / HTTP/1.1" 200 -
+2022-11-01 17:28:41,644 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-11-01 17:28:41,651 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:41] "[36mGET /static/images/index.png HTTP/1.1[0m" 304 -
+2022-11-01 17:28:41,654 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:41] "[36mGET /static/images/photo.jpg HTTP/1.1[0m" 304 -
+2022-11-01 17:28:47,516 - Anonymous - INFO - Total Clicks On Pathway: 1
+2022-11-01 17:28:52,564 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:52] "GET / HTTP/1.1" 200 -
+2022-11-01 17:28:52,632 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-11-01 17:28:52,639 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:52] "[36mGET /static/images/index.png HTTP/1.1[0m" 304 -
+2022-11-01 17:28:52,644 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:28:52] "[36mGET /static/images/photo.jpg HTTP/1.1[0m" 304 -
+2022-11-01 17:29:00,892 - Anonymous - INFO - Total User Till Now: 1
+2022-11-01 17:29:02,274 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:29:02] "GET / HTTP/1.1" 200 -
+2022-11-01 17:29:02,341 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:29:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-11-01 17:29:02,347 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:29:02] "[36mGET /static/images/index.png HTTP/1.1[0m" 304 -
+2022-11-01 17:29:02,349 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2022 17:29:02] "[36mGET /static/images/photo.jpg HTTP/1.1[0m" 304 -

@@ -1,0 +1,50 @@
+Many people want to learn how to code but feel like they need to start from scratch. I am here to help you change that by providing a step-by-step process to become a pro in programming and coding. While many resources are available online, I will give you a guided learning process to be a pro coder from zero. [Completely Free]
+
+
+Step One: [Introduction to Coding]
+	1. Foundational Skills:
+		a. Foundations ~ The Odin Project
+ - https://www.theodinproject.com/paths/foundations/courses/foundations
+	2. Python Course:
+		a. Python for Everybody ~ Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI
+		b. Free Python Programming Course - https://www.freecodecamp.org/news/python-programming-course/
+
+Step Two:[Time for Computer Science]
+	1. CS50's Introduction to Computer Science - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+
+This step varies from person to person and depends on what you like to do next, for example, if you are into web dev, game dev, or app dev. So depending on your interest, choose the course which you like.
+
+Step Three:[Specialization]
+	1. Getting into Web Application:
+		a. CS50's Web Programming with Python and JavaScript - https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+		b. Full Stack JavaScript - https://www.theodinproject.com/paths/full-stack-javascript 
+	2. Getting into Software Development:
+		a. Object Oriented Programming in Java(Intermediate Level) - https://www.coursera.org/learn/object-oriented-java
+		b. Advance Java(Advance Level) - https://www.youtube.com/watch?v=Ae-r8hsbPUo
+		c. JavaScript, jQuery, and JSON(Intermediate Level) - https://www.coursera.org/learn/javascript-jquery-json
+		d. Advanced JavaScript ~ Educational Tutorials(Advance Level) - https://www.youtube.com/watch?v=4svkAH9TdrU
+		e. Advanced JavaScript Crash Course ~  Codevolution(Advance Level) - https://www.youtube.com/watch?v=R9I85RhI7Cg
+		f. Python Classes and Inheritance(Intermediate Level) - https://www.coursera.org/learn/python-classes-inheritance
+		g. Intermediate Python Programming Course(Intermediate Level) - https://www.youtube.com/watch?v=HGOBQPFzWKo
+		h. Python Advance Programming ~  Simplilearn(Advance Level) - https://www.youtube.com/watch?v=Yrtm7d3TJbs
+	3. Getting into Mobile App Development:
+		a. Build Your First Android App(Intermediate Level) - https://www.coursera.org/learn/android-app
+		b. Android Development with Java(Intermediate Level) - https://www.youtube.com/watch?v=fis26HvvDII
+		c. Kotlin for Java Developers(Intermediate Level) - https://www.coursera.org/learn/kotlin-for-java-developers
+	4. Getting into Game Development:
+		a. Programming in C++: A Hands-on Introduction Specialization - https://www.coursera.org/specializations/hands-on-cpp
+		b. C++ Programming for Unreal Game Development Specialization - https://www.coursera.org/specializations/cplusplusunrealgamedevelopment
+		c. The ultimate introduction to Pygame ~  Clear Code - https://www.youtube.com/watch?v=AY9MnQ4x3zk
+
+Practise:[Sharpening Skills]
+	a. HackerRank - https://www.hackerrank.com/
+	b. CodeWars - https://www.codewars.com/
+	c. Coderbyte - https://www.coderbyte.com/
+	d. Exercism - https://exercism.org/
+	e. Sphere Online Judge - https://www.spoj.com/
+
+
+Note: If any of these links are not working or if you have any queries, please report to @anonymouscharon.
+
+Join the Community: https://t.me/NonymousHackers
+Happy Programming! :)
