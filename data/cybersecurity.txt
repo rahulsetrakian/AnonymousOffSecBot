@@ -16,7 +16,6 @@ Cybersecurity is a broad field, and there's always something new to learn and ex
 	b. Dirkjanm - https://dirkjanm.io/
 	c. Ethical Hackers Academy - https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory
 	d. Youtube[HackUCF] - https://www.youtube.com/watch?v=iTFqt3Tx4DQ
-	e. OSCP - https://pwk.hide01.ir
 
 3) Web Application Hacking:
 	a. Hacker101 - https://www.hacker101.com/
@@ -41,7 +40,6 @@ Cybersecurity is a broad field, and there's always something new to learn and ex
 6) Privilege Escalation:
 	a. Windows Privilege Escalation - https://www.youtube.com/watch?v=aD_KlzVK834
 	b. Linux Privilege Escalation - https://www.youtube.com/watch?v=yYY5mJoUZjU
-	c. OSCP - https://pwk.hide01.ir/
 
 7) Blogs:
 	a. Adam Toscher - https://adam-toscher.medium.com/
