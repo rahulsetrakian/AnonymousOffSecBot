@@ -25,7 +25,6 @@ Step Three:[Introduction to Cybersecurity]
 	4. Penetration Testing ~ Discovering Vulnerabilities - https://www.edx.org/course/penetration-testing-discovering-vulnerabilities
 	4. CompTIA Security+ Course - https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
 	5. OWASP Top 10 - https://owasp.org/www-project-top-ten/
-	6. OSCP - https://pwk.hide01.ir
 
 Practise:[Sharpening Skills]
 	a. Hacker101 CTF - https://ctf.hacker101.com/
